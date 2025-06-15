@@ -13,18 +13,6 @@ A Creative Thinking research project completed for the GEN113 course at Helwan N
 - **Faculty**: Computer Science & Information Technology  
 
 ---
-
-## 👥 Team Members
-
- | Name                              | Program      |
-|------------|-----------------------------------|--------------|
-  | Ahmed Adel Mohammed Al Sharif     | Data Science |
-  | Ali Ezz Ali Alian Hassan           | Data Science |
-  | Shehab Hosam Al-Din Helmi Mohamed | Data Science |
-  | Ahmed Sabry Hamza Hekal           | Data Science |
-
----
-
 ## ❓ Research Question
 
 **Does the ease of use of the user interface affect users' satisfaction with the information system and their return?**
