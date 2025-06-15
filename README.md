@@ -16,12 +16,12 @@ A Creative Thinking research project completed for the GEN113 course at Helwan N
 
 ## 👥 Team Members
 
-| ID         | Name                              | Program      |
+ | Name                              | Program      |
 |------------|-----------------------------------|--------------|
-| 231051030  | Ahmed Adel Mohammed Al Sharif     | Data Science |
-| 231051178  | Ali Ezz Ali Alian Hassan           | Data Science |
-| 231051145  | Shehab Hosam Al-Din Helmi Mohamed | Data Science |
-| 231051027  | Ahmed Sabry Hamza Hekal           | Data Science |
+  | Ahmed Adel Mohammed Al Sharif     | Data Science |
+  | Ali Ezz Ali Alian Hassan           | Data Science |
+  | Shehab Hosam Al-Din Helmi Mohamed | Data Science |
+  | Ahmed Sabry Hamza Hekal           | Data Science |
 
 ---
 
